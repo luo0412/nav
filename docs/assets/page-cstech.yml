@@ -11,7 +11,6 @@ services:
         url: "https://www.reddit.com/r/selfhosted/"
         target: "_blank"
 
-
   - name: "[6-2]传统互联网"
     icon: "fas fa-cloud"
     items:
@@ -54,7 +53,7 @@ services:
         url: "https://www.reddit.com/r/selfhosted/"
         target: "_blank"            
 
-  - name: "[6-6]可穿戴设备"
+  - name: "[6-6]可穿戴设备与脑机接口"
     icon: "fas fa-cloud"
     items:
       - name: "Awesome app on a second page!"
@@ -74,7 +73,7 @@ services:
         url: "https://www.reddit.com/r/selfhosted/"
         target: "_blank"          
 
-  - name: "[6-8]工业级生产与无人驾驶"
+  - name: "[6-8]工业级生产与机器人"
     icon: "fas fa-cloud"
     items:
       - name: "Awesome app on a second page!"
@@ -84,7 +83,7 @@ services:
         url: "https://www.reddit.com/r/selfhosted/"
         target: "_blank"            
 
-  - name: "[6-9]智能家居与智慧城市"
+  - name: "[6-9]智慧城市与无人驾驶(家居)"
     icon: "fas fa-cloud"
     items:
       - name: "Awesome app on a second page!"

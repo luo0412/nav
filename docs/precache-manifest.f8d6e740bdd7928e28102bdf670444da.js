@@ -36,7 +36,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/manifest.json"
   },
   {
-    "revision": "e8d6cdea4d38fc479f414c43b5807e7d",
+    "revision": "a567b7c1626bd0804022a3e8b47e5234",
     "url": "assets/page-cstech.yml"
   },
   {
