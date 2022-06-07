@@ -1,0 +1,93 @@
+---
+
+services:
+  - name: "[2-1]标准与规约"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"
+
+  - name: "[2-2]编程范式"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"
+
+  - name: "[2-3]设计模式"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"        
+
+  - name: "[2-4]数据结构"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"          
+
+  - name: "[2-5]算法模型"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"  
+
+
+  - name: "[2-6]排序查找"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank" 
+
+  - name: "[2-7]刷题竞赛"
+    icon: "fas fa-cloud"
+    items:
+      - name: "LeetCode"
+        logo: "assets/tools/sample.png"
+        subtitle: "LeetCode"
+        tag: "app"
+        url: "https://leetcode.cn/"
+        target: "_blank"         
+
+  - name: "[2-8]领域算法"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"          
+
+  - name: "[2-9]头脑风暴"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"        

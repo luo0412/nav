@@ -1,0 +1,94 @@
+---
+
+services:
+  - name: "[7-1]学习思考"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"
+
+  - name: "[7-2]科学科技"
+    icon: "fas fa-cloud"
+    items:
+      - name: "36氪"
+        logo: "assets/tools/sample.png"
+        subtitle: "36氪"
+        tag: "app"
+        url: "https://www.36kr.com/"
+        target: "_blank"        
+
+
+  - name: "[7-3]历史文化"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"    
+
+
+  - name: "[7-4]人文社科"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"         
+
+  - name: "[7-5]价值观与哲学"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"         
+
+  - name: "[7-6]心理学与社交"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"             
+
+  - name: "[7-7]职场与管理学"
+    icon: "fas fa-cloud"
+    items:
+      - name: "V2EX"
+        logo: "assets/tools/sample.png"
+        subtitle: "V2EX开心摸鱼"
+        tag: "app"
+        url: "https://www.v2ex.com/"
+        target: "_blank"           
+
+  - name: "[7-8]趋势报告"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"          
+
+  - name: "[7-9]人生规划"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"         

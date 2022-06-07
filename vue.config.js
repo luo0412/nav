@@ -10,6 +10,7 @@ module.exports = {
       .end();
   },
   publicPath: "",
+  outputDir: "docs",
   pwa: {
     manifestPath: "assets/manifest.json",
     manifestCrossorigin: "use-credentials",

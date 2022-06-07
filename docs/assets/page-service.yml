@@ -1,0 +1,95 @@
+---
+
+services:
+  - name: "[3-1]JDK语法"
+    icon: "fas fa-cloud"
+    items:
+      - name: "CSDN"
+        logo: "assets/tools/sample.png"
+        subtitle: "CSDN"
+        tag: "app"
+        url: "https://www.csdn.net/"
+        target: "_blank"
+
+  - name: "[3-2]框架类库"
+    icon: "fas fa-cloud"
+    items:
+      - name: "CSDN"
+        logo: "assets/tools/sample.png"
+        subtitle: "CSDN"
+        tag: "app"
+        url: "https://www.csdn.net/"
+        target: "_blank"
+
+  - name: "[3-3]Spring全家桶"
+    icon: "fas fa-cloud"
+    items:
+      - name: "CSDN"
+        logo: "assets/tools/sample.png"
+        subtitle: "CSDN"
+        tag: "app"
+        url: "https://www.csdn.net/"
+        target: "_blank"   
+
+  - name: "[3-4]微服务"
+    icon: "fas fa-cloud"
+    items:
+      - name: "CSDN"
+        logo: "assets/tools/sample.png"
+        subtitle: "CSDN"
+        tag: "app"
+        url: "https://www.csdn.net/"
+        target: "_blank"                       
+
+      
+  - name: "[3-5]DevOps"
+    icon: "fas fa-cloud"
+    items:
+      - name: "apifox"
+        logo: "https://luo0412.oss-cn-hangzhou.aliyuncs.com/1654603200818-TCpkf8iGpyrA.png"
+        subtitle: "apifox"
+        tag: "app"
+        url: "https://www.apifox.cn/"
+        target: "_blank"         
+
+
+  - name: "[3-6]云计算"
+    icon: "fas fa-cloud"
+    items:
+      - name: "七牛云存储"
+        logo: "assets/tools/sample.png"
+        subtitle: "七牛云存储"
+        tag: "app"
+        url: "https://www.qiniu.com/"
+        target: "_blank"                 
+
+  - name: "[3-7]性能优化(JVM)"
+    icon: "fas fa-cloud"
+    items:
+      - name: "CSDN"
+        logo: "assets/tools/sample.png"
+        subtitle: "CSDN"
+        tag: "app"
+        url: "https://www.csdn.net/"
+        target: "_blank"             
+
+  - name: "[3-8]技术管理与架构"
+    icon: "fas fa-cloud"
+    items:
+      - name: "CSDN"
+        logo: "assets/tools/sample.png"
+        subtitle: "CSDN"
+        tag: "app"
+        url: "https://www.csdn.net/"
+        target: "_blank"          
+
+
+  - name: "[3-9]Java技术趋势与面试"
+    icon: "fas fa-cloud"
+    items:
+      - name: "CSDN"
+        logo: "assets/tools/sample.png"
+        subtitle: "CSDN"
+        tag: "app"
+        url: "https://www.csdn.net/"
+        target: "_blank"           
