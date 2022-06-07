@@ -86,18 +86,11 @@ services:
   - name: "[0-2]编程语言"
     icon: "fas fa-cloud"
     items:
-      - name: "Awesome app222"
+      - name: "tiobe编程语言排行"
         logo: "assets/tools/sample.png"
-        subtitle: "Bookmark example"
+        subtitle: "tiobe编程语言排行"
         tag: "app"
-        keywords: "self hosted reddit"
-        url: "https://www.reddit.com/r/selfhosted/"
-        target: "_blank" # optional html a tag target attribute
-      - name: "Another one"
-        logo: "assets/tools/sample2.png"
-        subtitle: "Another application"
-        tag: "app"
-        url: "#"
+        url: "https://www.tiobe.com/tiobe-index/"
         target: "_blank" # optional html a tag target attribute
 
   - name: "[0-3]硬件"

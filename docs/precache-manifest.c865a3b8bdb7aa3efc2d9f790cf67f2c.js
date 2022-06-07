@@ -4,7 +4,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/additional-page.yml.dist"
   },
   {
-    "revision": "8b07204ce77e84935a02df62b7a5ba83",
+    "revision": "73ba34b580c91b52abedfd1572b0db2f",
     "url": "assets/config.yml"
   },
   {
@@ -68,19 +68,19 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/page-model.yml"
   },
   {
-    "revision": "c7a4bea379996a09a04fd21662ee3a4f",
+    "revision": "1ef154ad1e288c2e84d2f17705242b27",
     "url": "assets/page-service.yml"
   },
   {
-    "revision": "c3afe1e834062013d271bade2de21a8d",
+    "revision": "e0d8603d5ba70da6ab32a306fe54ab43",
     "url": "assets/page-thought.yml"
   },
   {
-    "revision": "dde012215e6fbb30c5c893fdf05ad365",
+    "revision": "bf45e54aa26037e63b8804d71a0a2ade",
     "url": "assets/page-tools.yml"
   },
   {
-    "revision": "2017dd5cf6b7c4583273d05b6dd2db65",
+    "revision": "622af7e8a0b0864b229da8d3b733f8a5",
     "url": "assets/page-ui.yml"
   },
   {
