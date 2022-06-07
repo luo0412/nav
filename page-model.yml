@@ -65,11 +65,11 @@ services:
   - name: "[2-7]刷题竞赛"
     icon: "fas fa-cloud"
     items:
-      - name: "Awesome app on a second page!"
+      - name: "LeetCode"
         logo: "assets/tools/sample.png"
-        subtitle: "Bookmark example"
+        subtitle: "LeetCode"
         tag: "app"
-        url: "https://www.reddit.com/r/selfhosted/"
+        url: "https://leetcode.cn/"
         target: "_blank"         
 
   - name: "[2-8]领域算法"

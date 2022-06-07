@@ -14,11 +14,11 @@ services:
   - name: "[7-2]科学科技"
     icon: "fas fa-cloud"
     items:
-      - name: "Awesome app on a second page!"
+      - name: "36氪"
         logo: "assets/tools/sample.png"
-        subtitle: "Bookmark example"
+        subtitle: "36氪"
         tag: "app"
-        url: "https://www.reddit.com/r/selfhosted/"
+        url: "https://www.36kr.com/"
         target: "_blank"        
 
 

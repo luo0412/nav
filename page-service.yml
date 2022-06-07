@@ -53,16 +53,14 @@ services:
         target: "_blank"         
 
 
-
-
   - name: "[3-6]云计算"
     icon: "fas fa-cloud"
     items:
-      - name: "CSDN"
+      - name: "七牛云存储"
         logo: "assets/tools/sample.png"
-        subtitle: "CSDN"
+        subtitle: "七牛云存储"
         tag: "app"
-        url: "https://www.csdn.net/"
+        url: "https://www.qiniu.com/"
         target: "_blank"                 
 
   - name: "[3-7]性能优化(JVM)"

@@ -1,15 +1,23 @@
 ---
 
 services:
-  - name: "[4-1]ECMA语法"
+  - name: "[4-1]ECMA语法与TypeScript"
     icon: "fas fa-cloud"
     items:
-      - name: "Awesome app on a second page!"
+      - name: "阮一峰-ES6入门教程"
         logo: "assets/tools/sample.png"
-        subtitle: "Bookmark example"
+        subtitle: "ES6入门教程"
         tag: "app"
-        url: "https://www.reddit.com/r/selfhosted/"
+        url: "https://es6.ruanyifeng.com/"
         target: "_blank"
+      - name: "typescript"
+        logo: "assets/tools/sample.png"
+        subtitle: "typescript"
+        tag: "app"
+        url: "https://typescript.bootcss.com/"
+        target: "_blank"
+
+
 
   - name: "[4-2]组件框架"
     icon: "fas fa-cloud"
@@ -33,12 +41,39 @@ services:
         tag: "app"
         url: "https://cn.vuejs.org/"
         target: "_blank"
+
+      - name: "ElementUI"
+        logo: "assets/tools/sample.png"
+        subtitle: "ElementUI"
+        tag: "app"
+        url: "https://element.eleme.cn/#/zh-CN/component/installation"
+        target: "_blank"
+
+      - name: "Arco Design"
+        logo: "assets/tools/sample.png"
+        subtitle: "Arco Design"
+        tag: "app"
+        url: "https://arco.design/"
+        target: "_blank"
+
+      - name: "Ant Design Vue"
+        logo: "assets/tools/sample.png"
+        subtitle: "Ant Design Vue"
+        tag: "app"
+        url: "https://www.antdv.com/docs/vue/introduce-cn/"
+        target: "_blank"
+
+
+
+
       - name: "Bootstrap"
         logo: "assets/tools/sample.png"
         subtitle: "Bootstrap"
         tag: "app"
         url: "https://www.bootcss.com/"
         target: "_blank"
+
+
 
 
 
@@ -86,17 +121,25 @@ services:
   - name: "[4-5]Devops"
     icon: "fas fa-cloud"
     items:
-      - name: "Awesome app on a second page!"
+      - name: "Vite"
         logo: "assets/tools/sample.png"
-        subtitle: "Bookmark example"
+        subtitle: "Vite"
         tag: "app"
-        url: "https://www.reddit.com/r/selfhosted/"
+        url: "https://vitejs.dev/"
         target: "_blank"
 
 
   - name: "[4-6]泛客户端"
     icon: "fas fa-cloud"
     items:
+
+      - name: "uniapp"
+        logo: "assets/tools/sample.png"
+        subtitle: "uniapp"
+        tag: "app"
+        url: "https://uniapp.dcloud.io/collocation/pages"
+        target: "_blank"  
+
       - name: "Electron"
         logo: "assets/tools/sample.png"
         subtitle: "Electron"
@@ -126,12 +169,12 @@ services:
         target: "_blank"                                
 
 
-  - name: "[4-9]前端架构"
+  - name: "[4-9]前端架构与面试"
     icon: "fas fa-cloud"
     items:
-      - name: "Awesome app on a second page!"
+      - name: "掘金"
         logo: "assets/tools/sample.png"
-        subtitle: "Bookmark example"
+        subtitle: "掘金"
         tag: "app"
-        url: "https://www.reddit.com/r/selfhosted/"
+        url: "https://juejin.cn/"
         target: "_blank"                                

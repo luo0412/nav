@@ -36,11 +36,11 @@ services:
   - name: "[6-4]跨端技术"
     icon: "fas fa-cloud"
     items:
-      - name: "Awesome app on a second page!"
+      - name: "Flutter"
         logo: "assets/tools/sample.png"
-        subtitle: "Bookmark example"
+        subtitle: "Flutter"
         tag: "app"
-        url: "https://www.reddit.com/r/selfhosted/"
+        url: "https://flutter.cn/"
         target: "_blank"           
 
 
