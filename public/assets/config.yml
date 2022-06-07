@@ -98,23 +98,30 @@ services:
         target: "_blank" # optional html a tag target attribute
 
 
-  - name: "[0-4]软件"
+  - name: "[0-4]软件与开源"
     icon: "fas fa-cloud"
     items:
       - name: "github"
         logo: "https://luo0412.oss-cn-hangzhou.aliyuncs.com/1654600482555-cpEsr5fxGYa3.png"
-        subtitle: "全球最大同性交友网站"
+        subtitle: "github"
         tag: 
           - "git"
           - "开源"
         url: "https://github.com/"
         target: "_blank" # optional html a tag target attribute
+      - name: "HelloGitHub"
+        logo: "assets/tools/sample2.png"
+        subtitle: "HelloGitHub"
+        tag: "app"
+        url: "https://hellogithub.com/"
+        target: "_blank" # optional html a tag target attribute   
       - name: "gitee"
         logo: "assets/tools/sample2.png"
-        subtitle: "Another application"
+        subtitle: "gitee"
         tag: "app"
         url: "https://gitee.com/"
         target: "_blank" # optional html a tag target attribute
+
 
 
   - name: "[0-5]操作系统"
@@ -124,7 +131,6 @@ services:
         logo: "assets/tools/sample.png"
         subtitle: "Bookmark example"
         tag: "app"
-        keywords: "self hosted reddit"
         url: "https://www.reddit.com/r/selfhosted/"
         target: "_blank" # optional html a tag target attribute
       - name: "Another one"
@@ -141,7 +147,6 @@ services:
         logo: "assets/tools/sample.png"
         subtitle: "Bookmark example"
         tag: "app"
-        keywords: "self hosted reddit"
         url: "https://www.reddit.com/r/selfhosted/"
         target: "_blank" # optional html a tag target attribute
       - name: "Another one"
@@ -158,7 +163,6 @@ services:
         logo: "assets/tools/sample.png"
         subtitle: "Bookmark example"
         tag: "app"
-        keywords: "self hosted reddit"
         url: "https://www.reddit.com/r/selfhosted/"
         target: "_blank" # optional html a tag target attribute
       - name: "Another one"
@@ -175,7 +179,6 @@ services:
         logo: "assets/tools/sample.png"
         subtitle: "Bookmark example"
         tag: "app"
-        keywords: "self hosted reddit"
         url: "https://www.reddit.com/r/selfhosted/"
         target: "_blank" # optional html a tag target attribute
       - name: "Another one"
@@ -192,7 +195,6 @@ services:
         logo: "assets/tools/sample.png"
         subtitle: "Bookmark example"
         tag: "app"
-        keywords: "self hosted reddit"
         url: "https://www.reddit.com/r/selfhosted/"
         target: "_blank" # optional html a tag target attribute
       - name: "Another one"

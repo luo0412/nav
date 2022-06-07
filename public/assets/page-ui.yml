@@ -10,6 +10,7 @@ services:
         tag: "app"
         url: "https://es6.ruanyifeng.com/"
         target: "_blank"
+        
       - name: "typescript"
         logo: "assets/tools/sample.png"
         subtitle: "typescript"
@@ -63,18 +64,12 @@ services:
         url: "https://www.antdv.com/docs/vue/introduce-cn/"
         target: "_blank"
 
-
-
-
       - name: "Bootstrap"
         logo: "assets/tools/sample.png"
         subtitle: "Bootstrap"
         tag: "app"
         url: "https://www.bootcss.com/"
         target: "_blank"
-
-
-
 
 
   - name: "[4-3]HTML5与SPA应用"
@@ -172,6 +167,12 @@ services:
   - name: "[4-9]前端架构与面试"
     icon: "fas fa-cloud"
     items:
+      - name: "前端精读周刊"
+        logo: "assets/tools/sample.png"
+        subtitle: "前端精读周刊"
+        tag: "app"
+        url: "https://github.com/ascoders/weekly"
+        target: "_blank"      
       - name: "掘金"
         logo: "assets/tools/sample.png"
         subtitle: "掘金"
