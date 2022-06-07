@@ -3,7 +3,7 @@
 # See https://fontawesome.com/v5/search for icons options
 
 title: "程序员导航"
-subtitle: "【神引篇】九秘中二版 "
+subtitle: "【神引篇】九秘中二版"
 logo: "logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
@@ -125,15 +125,16 @@ services:
         subtitle: "全球最大同性交友网站"
         tag: 
           - "git"
-          - 开源
+          - "开源"
         url: "https://github.com/"
         target: "_blank" # optional html a tag target attribute
-      - name: "Another one"
+      - name: "gitee"
         logo: "assets/tools/sample2.png"
         subtitle: "Another application"
         tag: "app"
-        url: "#"
+        url: "https://gitee.com/"
         target: "_blank" # optional html a tag target attribute
+
 
   - name: "[0-5]操作系统"
     icon: "fas fa-cloud"
