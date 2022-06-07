@@ -3,7 +3,7 @@
 # See https://fontawesome.com/v5/search for icons options
 
 title: "程序员导航"
-subtitle: "NavCrx"
+subtitle: "【神引篇】九秘中二版 "
 logo: "logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
@@ -81,6 +81,7 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
+        target: "_blank" # optional html a tag target attribute
 
   - name: "[0-2]编程语言"
     icon: "fas fa-cloud"
@@ -97,7 +98,7 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
-
+        target: "_blank" # optional html a tag target attribute
 
   - name: "[0-3]硬件"
     icon: "fas fa-cloud"
@@ -114,24 +115,25 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
-
+        target: "_blank" # optional html a tag target attribute
 
   - name: "[0-4]软件"
     icon: "fas fa-cloud"
     items:
-      - name: "Awesome app222"
-        logo: "assets/tools/sample.png"
-        subtitle: "Bookmark example"
-        tag: "app"
-        keywords: "self hosted reddit"
-        url: "https://www.reddit.com/r/selfhosted/"
+      - name: "github"
+        logo: "https://luo0412.oss-cn-hangzhou.aliyuncs.com/1654600482555-cpEsr5fxGYa3.png"
+        subtitle: "全球最大同性交友网站"
+        tag: 
+          - "git"
+          - 开源
+        url: "https://github.com/"
         target: "_blank" # optional html a tag target attribute
       - name: "Another one"
         logo: "assets/tools/sample2.png"
         subtitle: "Another application"
         tag: "app"
         url: "#"
-
+        target: "_blank" # optional html a tag target attribute
 
   - name: "[0-5]操作系统"
     icon: "fas fa-cloud"
@@ -148,7 +150,7 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
-
+        target: "_blank" # optional html a tag target attribute
 
   - name: "[0-6]数据库"
     icon: "fas fa-cloud"
@@ -165,7 +167,7 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
-
+        target: "_blank" # optional html a tag target attribute
 
   - name: "[0-7]图形学"
     icon: "fas fa-cloud"
@@ -182,6 +184,7 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
+        target: "_blank" # optional html a tag target attribute
 
   - name: "[0-8]计算机网络"
     icon: "fas fa-cloud"
@@ -198,7 +201,7 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
-
+        target: "_blank" # optional html a tag target attribute
 
   - name: "[0-9]密码学与安全攻防"
     icon: "fas fa-cloud"
@@ -215,3 +218,4 @@ services:
         subtitle: "Another application"
         tag: "app"
         url: "#"
+        target: "_blank" # optional html a tag target attribute

@@ -10,3 +10,4 @@ services:
         tag: "app"
         url: "https://www.reddit.com/r/selfhosted/"
         target: "_blank"
+
