@@ -1,27 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "6099aa46586b755603aaa0ef610083da",
-    "url": "assets/additional-page.yml.dist"
-  },
-  {
-    "revision": "73ba34b580c91b52abedfd1572b0db2f",
+    "revision": "fa17381a6634cad2886c96d8850b5ee9",
     "url": "assets/config.yml"
-  },
-  {
-    "revision": "3bcaaf53a63bc09dd9c81dfd012d84ea",
-    "url": "assets/config.yml.dist"
-  },
-  {
-    "revision": "83a0b5926c3193bf35a4777d822b3b6f",
-    "url": "assets/config.yml.dist.sample-sui"
   },
   {
     "revision": "fd699694515ebb6d8f133017dd42dbaa",
     "url": "assets/custom.css"
-  },
-  {
-    "revision": "fd699694515ebb6d8f133017dd42dbaa",
-    "url": "assets/custom.css.sample"
   },
   {
     "revision": "3747a299c93ac18efb842e9c77321eae",
@@ -68,7 +52,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/page-model.yml"
   },
   {
-    "revision": "1ef154ad1e288c2e84d2f17705242b27",
+    "revision": "9de6f0a8b9615001c01fa25acfae08a8",
     "url": "assets/page-service.yml"
   },
   {
@@ -80,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/page-tools.yml"
   },
   {
-    "revision": "622af7e8a0b0864b229da8d3b733f8a5",
+    "revision": "876a63cf1e09dfd162c98c555a38e6b5",
     "url": "assets/page-ui.yml"
   },
   {
