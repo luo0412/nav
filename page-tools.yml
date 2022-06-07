@@ -1,0 +1,12 @@
+---
+
+services:
+  - name: "[1-1]学习资源"
+    icon: "fas fa-cloud"
+    items:
+      - name: "Awesome app on a second page!"
+        logo: "assets/tools/sample.png"
+        subtitle: "Bookmark example"
+        tag: "app"
+        url: "https://www.reddit.com/r/selfhosted/"
+        target: "_blank"
