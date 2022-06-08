@@ -128,6 +128,13 @@ services:
     icon: "fas fa-cloud"
     items:
 
+      - name: "微信小程序官方文档"
+        logo: "assets/tools/sample.png"
+        subtitle: "微信小程序"
+        tag: "app"
+        url: "https://developers.weixin.qq.com/miniprogram/dev/framework/"
+        target: "_blank"  
+
       - name: "uniapp"
         logo: "assets/tools/sample.png"
         subtitle: "uniapp"

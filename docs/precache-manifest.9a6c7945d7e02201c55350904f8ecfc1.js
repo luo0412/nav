@@ -64,7 +64,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "assets/page-tools.yml"
   },
   {
-    "revision": "876a63cf1e09dfd162c98c555a38e6b5",
+    "revision": "5239320cb43d542e2eaa5e13cbf0af7e",
     "url": "assets/page-ui.yml"
   },
   {

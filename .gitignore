@@ -24,3 +24,5 @@ yarn-error.log*
 # config.yml
 
 .drone.yml
+
+coolma.config.json
