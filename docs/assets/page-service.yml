@@ -84,6 +84,14 @@ services:
   - name: "[3-8]技术管理与架构"
     icon: "fas fa-cloud"
     items:
+  
+      - name: "凤凰架构"
+        logo: "https://luo0412.oss-cn-hangzhou.aliyuncs.com/1654681939495-E6NzmFSHbFXt.png"
+        subtitle: "凤凰架构"
+        tag: "arch"
+        url: "https://icyfenix.cn/"
+        target: "_blank" 
+
       - name: "解道JDON"
         logo: "assets/tools/sample.png"
         subtitle: "解道JDON"
