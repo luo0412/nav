@@ -4,4 +4,4 @@
 
 基于homer
 
-修改public/assets下的yml文件即可
+内容基于请求, 所以修改public/assets下的yml文件即可
